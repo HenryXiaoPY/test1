@@ -1,2 +1,7 @@
 iiiiii
-sssssm
+<<<<<<< HEAD
+sssssa
+=======
+sssssa
+mmm
+>>>>>>> dev2
