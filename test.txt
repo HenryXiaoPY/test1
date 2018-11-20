@@ -1,3 +1,7 @@
 iiiiii
-sssssb
+<<<<<<< HEAD
+sssssc
 mmmmm
+=======
+sssssc
+>>>>>>> dev3
